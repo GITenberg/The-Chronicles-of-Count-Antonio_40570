@@ -1,0 +1,46 @@
+_repo: The-Chronicles-of-Count-Antonio_40570
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Schaick, S. W. (Stephen Wilson)
+    aliases:
+    - Vanschaick, Stephen W. (Stephen Wilson)
+    - Schaick, S. W. van (Stephen Wilson)
+    - Van Schaick, Stephen Wilson
+    deathdate: 1920
+    gutenberg_agent_id: '41899'
+    url: http://www.gutenberg.org/2009/agents/41899
+covers:
+- cover_type: archival
+  image_path: 40570-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: This 1897 novel is framed as a collection of tales told by "Ambrose,
+  the Fransiscan," a medieval monk. The titular Count Antonio is a nobleman forced
+  into outlawry when his love for the ward of Duke Valentine is spurned. "The charm
+  of the book lies in the simplicity and gravity of the narrator's manner," wrote
+  the New York Times .
+gutenberg_issued: '2012-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Outlaws -- Fiction'
+- !lcsh 'Italy -- Fiction'
+title: The Chronicles of Count Antonio
+url: http://www.gutenberg.org/ebooks/40570
